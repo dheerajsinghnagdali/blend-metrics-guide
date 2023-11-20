@@ -6,7 +6,7 @@ We're using Next.js in every single font-end. When you configure a project using
 
 ## Typescript
 
-We're supposed to use Typescript. And we would appreciate if you could make types performant, and use advanced Typescript features such as generics, mapped types, the infer keyword, and so on where appropriate. When configuring Next.js, choose Typescript, so that you don't have to configure it manually.
+You're supposed to use Typescript. And we would appreciate if you could make types performant, and use advanced Typescript features such as generics, mapped types, the infer keyword, and so on where appropriate. When configuring Next.js, choose Typescript, so that you don't have to configure it manually.
 
 ## Formatting
 
