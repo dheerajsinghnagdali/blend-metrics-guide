@@ -30,6 +30,6 @@ Here's [the design system's Storybook](https://blend-metrics-ui.vercel.app/) whi
 
 Next.js has been using kebab case for its website and at Vercel. So it's become a convention. As you're using Next.js, you should also use kebab case when it comes to naming files. If you're not sure about kebab case, [this guide](https://developer.mozilla.org/en-US/docs/Glossary/Kebab_case) could potentially helpful for you.
 
-### How you should name your variables and function
+### How you should name your variables and functions
 
 Developers like to use the convention they like. However, at Marketkeq, we like to move forward professionally. So we would appreciate if you follow [this guide](https://github.com/kettanaito/naming-cheatsheet) in order to name your variables and functions. Our whole codebase is based on functional programming. So we would appreciate if you don't use classes anywhere. And you are suppposed to use [the camel case](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) convention when it comes to naming variables and functions.
