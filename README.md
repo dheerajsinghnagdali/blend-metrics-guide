@@ -2,7 +2,7 @@
 
 ## Next.js
 
-We're using Next.js every single font-end. When you configure a project using Next.js, you get a lot things configured that are mentioned below.
+We're using Next.js in every single font-end. When you configure a project using Next.js, you get a lot things configured that are mentioned below.
 
 ## Typescript
 
